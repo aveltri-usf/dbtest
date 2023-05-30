@@ -40,3 +40,6 @@ for entry in results:
 
 #close the connection
 conn.close()
+
+#test feature for git branch
+print("\nthis is a test feature")
